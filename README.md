@@ -10,7 +10,7 @@ All the 3D printable parts will be managed in a separate repository that will be
 
 ## Project Name
 
-The project's name "kitsune" is the Japanese word for "fox", which I choose for two reasons: Firstly, for printing the robot I had some orange and white filament lying around, so that the color scheme of my robot resembled a fox closely. Secondly, I am interested in the Japanese language and color and also fond of the animal and the role it has in [Japanese folklore](https://en.wikipedia.org/wiki/Kitsune). 
+The project's name "kitsune" is the Japanese word for "fox", which I chose for two reasons: Firstly, for printing the robot I had some orange and white filament lying around, so that the color scheme of my robot resembled a fox closely. Secondly, I am interested in the Japanese language and color and also fond of the animal and the role it has in [Japanese folklore](https://en.wikipedia.org/wiki/Kitsune). 
 
 ## More coming soon...
 
